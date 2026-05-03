@@ -23,7 +23,7 @@ The `handbook/` folder contains the core learning path:
 Start with:
 
 - [handbook/README.md](./handbook/README.md)
-- [handbook/Smali_Handbook_Polished.md](./handbook/Smali_Handbook_Polished.md)
+- [handbook/Smali_Handbook_Polished.md](./handbook/Smali.md)
 - [handbook/Practice_Roadmap_30_Days.md](./handbook/Practice_Roadmap_30_Days.md)
 
 ### 2. Version 2 Pack
